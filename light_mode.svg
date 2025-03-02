@@ -48,11 +48,21 @@ text, tspan {white-space: pre;}
 
 <text x="30" y="30" fill="#24292f">
 <tspan x="30" y="30">Kevin Ruiz</tspan>-——————————————————————————————————————————————-—-
-<tspan x="30" y="60" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
-<tspan x="30" y="90" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="30" y="60" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">TypeScript, Java, Python, C#</tspan>
+<tspan x="30" y="90" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Vue, React</tspan>
 <tspan x="30" y="120" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Spanish</tspan>
 <tspan x="30" y="180">- Contact</tspan> -——————————————————————————————————————-—-
 <tspan x="30" y="210" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">kevinruizflorez@gmail.com</tspan>
 <tspan x="30" y="240" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">/in/kleov</tspan>
 </text>
+
+<text x="30" y="300" fill="#24292f">
+<tspan x="30" y="300">- Interests</tspan>-————————————————————-—-
+<tspan x="30" y="330" class="cc">- </tspan><tspan class="addColor">'Extreme Programming'</tspan>
+<tspan x="30" y="360" class="cc">- </tspan><tspan class="addColor">'Software Architecture'</tspan>
+<tspan x="30" y="390" class="cc">- </tspan><tspan class="addColor">'Web Accessibility'</tspan>
+<tspan x="30" y="420" class="cc">- </tspan><tspan class="addColor">'UX/UI Design'</tspan>
+</text>
+
+<text x="30" y="570" fill="#24292f">Feel free to reach out! :)</text>
 </svg>
