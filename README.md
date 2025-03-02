@@ -1,4 +1,6 @@
-## Hi there 👋
+![me](ascii-art.png)
+![helo](./hello.svg)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <!--
 **kleov-rf/kleov-rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
