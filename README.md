@@ -1,5 +1,10 @@
-![me](ascii-art.png)
-![helo](./hello.svg)
+<a href="https://github.com/kleov-rf/kleov-rf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleov-rf/kleov-rf/refs/heads/main/dark_mode.svg">
+    <img alt="Kevin Ruiz's GitHub Profile README" src="https://raw.githubusercontent.com/kleov-rf/kleov-rf/main/light_mode.svg">
+  </picture>
+</a>
+
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <!--
